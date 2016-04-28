@@ -42,6 +42,7 @@ module Robotics.NXT.Sensor.Ultrasonic (
 import Control.Exception
 import Control.Monad
 import Control.Monad.Trans
+import Data.Functor
 import Data.Maybe
 
 import Robotics.NXT

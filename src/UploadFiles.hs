@@ -4,6 +4,7 @@ module Main (
 
 import Control.Monad.State
 import qualified Data.ByteString.Lazy as B
+import Data.Functor
 import Data.Maybe
 import Data.List
 import System.Console.GetOpt

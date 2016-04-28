@@ -2,6 +2,7 @@
 
 module Robotics.NXT.Internals where
 
+import Control.Applicative
 import Control.Monad.State
 import Data.Time.Clock.POSIX
 import Data.Typeable
